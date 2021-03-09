@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 # @Time : 2021/3/9 9:46
-# @Author :liuzf 
+# @公众号 : Python图书馆
 # @File : game.py
 # @Software: PyCharm
-# @Description:
+# @Description:下面代码用到了一些素材（游戏背景音乐、图片等等），可以到 https://www.itprojects.cn/detail.html?example_id=869a7cbfd9bd4d9b23e61a4d88e39b1c 下载，谢谢大家的支持
+
 
 import random
 import sys
