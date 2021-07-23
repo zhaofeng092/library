@@ -1,3 +1,5 @@
+# Description： 公众号：Python自动化办公社区
+# Attention： 更多Python学习资源：https://mp.weixin.qq.com/s/sO6hbVqORy7JpN-5TlaKvQ
 import turtle as t
 
 t.pensize(10)
